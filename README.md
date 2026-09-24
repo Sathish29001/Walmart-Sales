@@ -47,3 +47,6 @@ The Power BI dashboard provides executive summaries across four primary views:
 2. **Monthly Sales Trend:** Line visual highlighting peak sales months (October peak at $143.71K).
 3. **Regional Heatmaps:** Geographical map visualizing high-performing regions (e.g., Maharashtra with $385K, Karnataka with $176K).
 4. **Product & Branch Rankings:** Top 7 revenue-generating products (USB Flash Drives, Power Banks, Handbags) alongside top-performing store branches.
+
+Show what the dashboard looks like,
+                                ![Dashboard Preview](https://github.com/Sathish29001/Walmart-Sales/blob/main/Tableau%20WallMart%20Sales%20Daashboard.pdf)
